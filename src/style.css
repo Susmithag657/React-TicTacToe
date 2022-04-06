@@ -79,5 +79,14 @@ div.status{
   font-weight: bold;
   font-size: medium;
   margin-top:1rem;  
+  border:1px solid yellowgreen;
+  border-radius: 5px;
+  align-self: stretch;
+  text-align: center;
+  padding: 10px;
+  background-color: goldenrod;
+}
+div > div.winner{
+  background-color:green;
 }
 
